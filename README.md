@@ -1,2 +1,5 @@
 # hello-world
-Introductory repository
+
+This is my first branch edit and commit!
+Thanks for tuning in!
+
